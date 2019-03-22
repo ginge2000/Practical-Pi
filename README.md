@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hello derek!
+Hello Derek!
 
 You can use the [editor on GitHub](https://github.com/ginge2000/Practical-Pi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
