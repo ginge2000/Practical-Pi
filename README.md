@@ -1,1 +1,1 @@
-Jakes work for 40% assignment.
+David, Jake and Jacks work for IoT Project Semster 2
