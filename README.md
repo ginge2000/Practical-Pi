@@ -33,7 +33,7 @@ In order to turn the light off the last four lines of code were changed to:
 - GPIO.output(27, GPIO, LOW)
 
 Here is the GPIO setup:
-insert pic
+![56286733_560518611121438_8120658184542093312_n](https://user-images.githubusercontent.com/44526174/55519312-31e59980-566f-11e9-9790-d438a37c3db3.jpg)
 
 ## Practical NO.3
 In this practical the Raspberry Pi was used to make a set of lights blink. The code was as follows:
