@@ -4,10 +4,11 @@ The first of the practicals for the Raspberry Pi dealt with a simple program pri
 ![56547427_1830440127057889_7401713167799156736_n](https://user-images.githubusercontent.com/44526174/55517407-378bb100-5668-11e9-8976-bc87c0199d8a.jpg)
 
 Here is what the code looked like: 
-
--#!/usr/bin/python
--#Print Hello world
--print "Hello World!"
+```markdown
+Syntax highlighted code block
+- #!/usr/bin/python
+- #Print Hello world
+- print "Hello World!"
 
 ### Jekyll Themes
 
