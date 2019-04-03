@@ -89,7 +89,7 @@ The final of the Raspberry Pi practicals involved 1)a push button for physical i
  - sleep(0.1)
 
 And this is what the GPIO setup looked like:
-insert image
+![56904928_2379862978916816_7439808058835861504_n](https://user-images.githubusercontent.com/44526174/55519597-6c036b00-5670-11e9-97b2-73cc8c6f731d.jpg)
 
 For the buzzer part, this was the code used:
 
@@ -120,7 +120,7 @@ For the buzzer part, this was the code used:
 - morsecode()
 
 This was the setup of the GPIO:
-insert image
+![56306754_659580224473250_3741518136654954496_n](https://user-images.githubusercontent.com/44526174/55519603-7160b580-5670-11e9-886c-d56de41c8bcc.jpg)
 
 ### Jekyll Themes
 
