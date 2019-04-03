@@ -1,0 +1,9 @@
+#No, there is no way a Python programmer do anything to ensure that a variable’s value can never be changed after
+#its initial assignment.
+
+x = 12
+x = 10
+
+print(x)
+
+#As you can see the variable x was initially assigned to 12 but then to 10.

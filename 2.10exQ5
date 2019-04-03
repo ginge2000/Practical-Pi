@@ -1,0 +1,3 @@
+#if you attempt to use a variable within a program, and that variable has not been assigned a value it will result in a error as shown:
+x = 1
+print(y)

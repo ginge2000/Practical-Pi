@@ -1,0 +1,6 @@
+#The value 2.45×10−5 is expressed as a python literal by:
+x = 2.45e-5
+
+print(x)
+
+#where the e takes the plave of the ×10.
