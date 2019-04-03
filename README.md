@@ -49,17 +49,17 @@ In this practical the Raspberry Pi was used to make a set of lights blink. The c
 - GPIO.setup(27, GPIO, OUT)
 -
 - **while** True:
--- **print** "lights on"
--- GPIO.output(17, GPIO, HIGH)
--- GPIO.output(27, GPIO, HIGH)
---
--- sleep(1)
---
--- **print** "lights off"
--- GPIO.output(17, GPIO, LOW)
--- GPIO.output(27, GPIO, LOW
---
--- sleep(1)
+ - **print** "lights on"
+ - GPIO.output(17, GPIO, HIGH)
+ - GPIO.output(27, GPIO, HIGH)
+ -
+ - sleep(1)
+ -
+ - **print** "lights off"
+ - GPIO.output(17, GPIO, LOW)
+ - GPIO.output(27, GPIO, LOW
+ -
+ - sleep(1)
 
 This is how the GPIO setup looked:
 insert image
@@ -77,16 +77,16 @@ The final of the Raspberry Pi practicals involved 1)a push button for physical i
 - GPIO.setup(10, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 -
 - **while** True:
--- **if**( GPIO.input(10) == False ):
--- print("Button Pressed")
--- os.system('date)
--- **print** GPIO.input(10)
--- sleep(5)
---
--- **else**:
--- os.system('clear')
--- print("Waiting for you to press a button")
--- sleep(0.1)
+ - **if**( GPIO.input(10) == False ):
+ - print("Button Pressed")
+ - os.system('date)
+ - **print** GPIO.input(10)
+ - sleep(5)
+ -
+ - **else**:
+ - os.system('clear')
+ - print("Waiting for you to press a button")
+ - sleep(0.1)
 
 And this is what the GPIO setup looked like:
 insert image
@@ -105,12 +105,12 @@ For the buzzer part, this was the code used:
 - **loop_count** = 0
 -
 - **def** morsecode ():
---
--- GPIO.output(22, GPIO, HIGH)
--- sleep(0.1)
--- GPIO.output(22, GPIO, LOW)
--- sleep(0.1)
---
+ -
+ - GPIO.output(22, GPIO, HIGH)
+ - sleep(0.1)
+ - GPIO.output(22, GPIO, LOW)
+ - sleep(0.1)
+ -
 - os.system('clear')
 - **print** "Morse Code"
 -
