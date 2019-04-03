@@ -1,5 +1,6 @@
 # Practical-Pi  /  Jack Pender, David White, Jake Halley
 
+
 ## Practical NO.1
 The first of the practicals for the Raspberry Pi dealt with a simple program printing out "Hello World!". Here is the output of the program once it had been run: 
 ![56547427_1830440127057889_7401713167799156736_n](https://user-images.githubusercontent.com/44526174/55517407-378bb100-5668-11e9-8976-bc87c0199d8a.jpg)
