@@ -5,7 +5,7 @@ The first of the practicals for the Raspberry Pi dealt with a simple program pri
 
 Here is what the code looked like: 
 ```markdown
-Syntax highlighted code block
+
 - #!/usr/bin/python
 - #Print Hello world
 - print "Hello World!"
