@@ -62,7 +62,7 @@ In this practical the Raspberry Pi was used to make a set of lights blink. The c
  - sleep(1)
 
 This is how the GPIO setup looked:
-insert image
+![56402102_357622738429151_1090778687952912384_n](https://user-images.githubusercontent.com/44526174/55519496-ff886c00-566f-11e9-968f-870ccdd1fd35.jpg)
 
 ## Practical NO.4
 The final of the Raspberry Pi practicals involved 1)a push button for physical input and 2)a buzzer. The code used for the button looked like this:
