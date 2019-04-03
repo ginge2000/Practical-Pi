@@ -4,9 +4,9 @@ The first of the practicals for the Raspberry Pi dealt with a simple program pri
 
 Here is what the code looked like: 
 
-*#!/usr/bin/python
-*#Print Hello world
-*print "Hello World!"
+-#!/usr/bin/python
+-#Print Hello world
+-print "Hello World!"
 
 ### Jekyll Themes
 
