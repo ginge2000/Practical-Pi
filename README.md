@@ -3,7 +3,7 @@
 The first of the practicals for the Raspberry Pi dealt with a simple program printing out "Hello World!". Here is the output of the program once it had been run: 
 
 Here is what the code looked like: 
-```markdown
+
 #!/usr/bin/python
 #Print Hello world
 print "Hello World!"
